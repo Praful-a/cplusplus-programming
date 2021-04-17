@@ -7,7 +7,7 @@ int main()
 	cin>>a>>b>>c;
 	if(a>b) {
 		if(a>c) {
-			cout<<a<<endl;;
+			cout<<a<<endl;
 		} else {		
 			cout<<c<<endl;
 		}
