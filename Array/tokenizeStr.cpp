@@ -82,7 +82,7 @@ using namespace std;
     return(0);
 }*/
 
-
+/*
 // CPP program for above approach
 #include<iostream>
 #include<regex>
@@ -97,6 +97,7 @@ using namespace std;
 * @param re
 * @return std::vector<std::string>
 */
+/*
 std::vector<std::string> tokenize(
                      const std::string str,
                           const std::regex re)
@@ -131,4 +132,4 @@ int main()
     for (std::string token : tokenized)
         std::cout << token << std::endl;
     return 0;
-}
+}*/
