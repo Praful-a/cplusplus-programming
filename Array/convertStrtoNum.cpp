@@ -1,6 +1,6 @@
 // C++ code to demonstrate working of lexical_cast()
 #include<iostream>
-// #include <boost/lexical_cast.hpp>
+#include <boost/lexical_cast.hpp>
 #include<sstream>
 #include<string> // for string
 using namespace std;
